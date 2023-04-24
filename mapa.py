@@ -7,7 +7,7 @@ mapita=folium.Map(location=boulder_coords, zoom_start= 8, control_scale=True)
 
 
 
-departamentos='deptos_gt.geojson'
+departamenos='deptos_gt.geojson'
 
 style_function2 = lambda x: {'fillColor': '#ffffff', 
                             'color':'#000000', 
